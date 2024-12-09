@@ -1,0 +1,15 @@
+FarmPredictor/
+|-- data/
+|   |-- your csv file .csv
+|
+|-- models/
+|   |-- climate_model.h5  (optional)
+|
+|-- plots/
+|   |-- plot.png  (optional)
+|
+|-- main.py
+|-- preprocess.py
+|-- model.py
+|-- evaluate.py
+|-- visualize.py
